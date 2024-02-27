@@ -1,0 +1,3 @@
+ last_name, first_name, date_of_birth, email
+ Doe, Christophe, 1995/10/31, cmach@scaleway.com
+ Ann, Mary, 1975/10/19, mary.ann@foobar.com
